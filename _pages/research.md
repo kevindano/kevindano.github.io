@@ -10,7 +10,7 @@ classes: wide
 - - -
 
 <br />
-**Transition probabilities and identifying moments in (V)AR and dynamic multinomial panel logit models with fixed effects** [draft coming soon]  
+<!--- **Transition probabilities and identifying moments in (V)AR and dynamic multinomial panel logit models with fixed effects** [draft coming soon]  --->
 
 
 **Identification and estimation of random effects linear social interaction models with endogenous peer selection**  [draft coming soon]
