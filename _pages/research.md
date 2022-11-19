@@ -20,9 +20,9 @@ In theory, free and fair elections can improve the selection of politicians and 
 
 # <center> Work In Progress  </center>
 - - -
-
-<br />
 <!--- **Transition probabilities and identifying moments in (V)AR and dynamic multinomial panel logit models with fixed effects** [draft coming soon]  --->
+
+**Relaxing Strict Exogeneity in Nonlinear Panel Data Models** (with Stéphane Bonhomme and Bryan S. Graham)
 
 **Identification in a Binary Choice Panel Data Model with a Predetermined Covariate** (with Stéphane Bonhomme and Bryan S. Graham)
 
