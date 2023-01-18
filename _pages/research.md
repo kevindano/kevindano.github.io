@@ -16,7 +16,7 @@ classes: wide
 We study identification in a binary choice panel data model with a single predetermined binary covariate (i.e., a covariate sequentially exogenous conditional on lagged outcomes and covariates). The choice model is indexed by a scalar parameter, whereas the distribution of unit-specific heterogeneity, as well as the feedback process that maps lagged outcomes into future covariate realizations, are left unrestricted. We provide a simple condition under which the model parameter is never point-identified, no matter the number of time periods available. At the same time, we show in simulations that its identified set can remain informative suggesting that meaningful learning is possible even in short panels with feedback.
 </small><br><br/></div>
 
-[series_paper]: https://www.dropbox.com/s/3bhxdc2gingv8g6/Draft_SERIES_submit.pdf?dl=0
+[series_paper]: https://arxiv.org/pdf/2301.05733.pdf
 
 **Coordination and Incumbency Advantage in Multi-Party Systems: Evidence from French Elections** (with Francesco Ferlenga, Vincenzo Galasso, Caroline Le Pennec and Vincent Pons), *Submitted* <br />
 <small>[ <a href="#/" onclick="visib('incumbency')">Abstract</a>  | [Draft][incumbency_adv] ] </small>
