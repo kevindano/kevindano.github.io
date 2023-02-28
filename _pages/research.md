@@ -8,6 +8,18 @@ classes: wide
 # <center> Working Papers  </center>
 - - -
 
+**Transition Probabilities and Identifying Moments in Dynamic Fixed Effects Logit Models**, *Comments welcome* <br />
+<small>[ <a href="#/" onclick="visib('DFEL')">Abstract</a> | [Draft][DFEL_paper] ] 
+
+
+<div id="DFEL" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper introduces an algebraic approach to derive identifying moments in dynamic logit models with strictly exogenous regressors and additive fixed effects.  It is based upon two common features in this class of models. First, many (individual-specific) transition probabilities can be expressed as conditional expectations of functions of the data and common parameters given the initial condition, the regressors and the fixed effects. We call such functions transition functions.  Second, after a certain time period, multiple transition functions map to the same transition probabilities. This  motivates a differencing strategy leveraging the multiplicity of transition functions to produce valid moment conditions in panels of adequate length. We detail the construction of identifying moments in scalar models of arbitrary lag order as well as first-order panel vector autoregressions and dynamic multinomial logit models. A simulation study illustrates the small sample performance of GMM estimators based on our methodology.
+</small><br><br/></div>
+
+[DFEL_paper]:{{ site.baseurl }}{% link assets/files/Draft_DFEL_KevinDano.pdf %}
+
+
+
 **Identification in a Binary Choice Panel Data Model with a Predetermined Covariate** (with Stéphane Bonhomme and Bryan S. Graham), *Submitted* <br />
 <small>[ <a href="#/" onclick="visib('series')">Summary</a> | [Draft][series_paper] ] 
 
