@@ -9,7 +9,7 @@ classes: wide
 - - -
 
 **Transition Probabilities and Identifying Moments in Dynamic Fixed Effects Logit Models**, *Comments welcome* <br />
-<small>[ <a href="#/" onclick="visib('DFEL')">Abstract</a> | [Draft][DFEL_paper] ] 
+<small>[ <a href="#/" onclick="visib('DFEL')">Abstract</a> | [Draft][DFEL_paper] | [Arxiv version][arxiv]] 
 
 
 <div id="DFEL" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -18,7 +18,7 @@ This paper introduces an algebraic approach to derive identifying moments in dyn
 
 [DFEL_paper]:{{ site.baseurl }}{% link assets/files/Draft_DFEL_KevinDano.pdf %}
 
-
+[arxiv]: http://arxiv.org/abs/2303.00083
 
 **Identification in a Binary Choice Panel Data Model with a Predetermined Covariate** (with Stéphane Bonhomme and Bryan S. Graham), *Submitted* <br />
 <small>[ <a href="#/" onclick="visib('series')">Summary</a> | [Draft][series_paper] ] 
