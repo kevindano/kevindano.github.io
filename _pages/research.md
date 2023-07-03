@@ -21,7 +21,7 @@ This paper introduces an algebraic approach to derive identifying moments in dyn
 [Arxiv_DFEL_paper]: http://arxiv.org/abs/2303.00083
 
 **Identification in a Binary Choice Panel Data Model with a Predetermined Covariate** (with Stéphane Bonhomme and Bryan S. Graham), *Submitted* <br />
-<small>[ <a href="#/" onclick="visib('series')">Abstract</a> | [Draft][Draft_series_paper] | [Arxiv version][Arxiv_series_paper] | [Nber version][Nber_series_paper]] 
+<small>[ <a href="#/" onclick="visib('series')">Abstract</a> | [Draft][Draft_series_paper] | [Arxiv version][Arxiv_series_paper] | [Nber version][Nber_series_paper] | [Replication code][replication_julia]] 
 
 
 <div id="series" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -34,6 +34,7 @@ We study identification in a binary choice panel data model with a single predet
 
 [Nber_series_paper]: https://www.nber.org/papers/w31027
 
+[replication_julia]: https://github.com/kevindano/Bonhomme-Dano-Graham-SERIES
 
 
 **Coordination and Incumbency Advantage in Multi-Party Systems: Evidence from French Elections** (with Francesco Ferlenga, Vincenzo Galasso, Caroline Le Pennec and Vincent Pons), *Submitted* <br />
