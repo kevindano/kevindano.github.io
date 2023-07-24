@@ -21,7 +21,7 @@ This paper deals with estimation of dynamic discrete choice models. Specifically
 [Arxiv_DFEL_paper]: http://arxiv.org/abs/2303.00083
 
 **Functional Differencing in Networks** (with Stéphane Bonhomme), *Submitted* <br />
-<small>[ <a href="#/" onclick="visib('funcdiff_networks')">Abstract</a> | [Draft][Draft_funcdiff_networks_paper] ] 
+<small>[ <a href="#/" onclick="visib('funcdiff_networks')">Abstract</a> | [Draft][Draft_funcdiff_networks_paper] | [Arxiv version][Arxiv_funcdiff_networks_paper] ] 
 
 <div id="funcdiff_networks" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Economic interactions often occur in networks where heterogeneous agents (such as workers or firms) sort and produce. However, most existing estimation approaches either require the network to be dense, which is at odds with many empirical networks, or they require restricting the form of heterogeneity and the network formation process. We show how the functional differencing approach introduced by Bonhomme (2012) in the context of panel data, can be applied in network settings to derive moment restrictions on model parameters and average effects. Those restrictions are valid irrespective of the form of heterogeneity, and they hold in both dense and sparse networks. We illustrate the analysis with linear and nonlinear models of matched employer-employee data, in the spirit of the model introduced by Abowd, Kramarz, and Margolis (1999).
@@ -29,7 +29,7 @@ Economic interactions often occur in networks where heterogeneous agents (such a
 
 [Draft_funcdiff_networks_paper]:{{ site.baseurl }}{% link assets/files/Note_FD_resubmit_noFrenchabstract.pdf %}
 
-
+[Arxiv_funcdiff_networks_paper]: https://arxiv.org/abs/2307.11484
 
 **Identification in a Binary Choice Panel Data Model with a Predetermined Covariate** (with Stéphane Bonhomme and Bryan S. Graham), *Submitted* <br />
 <small>[ <a href="#/" onclick="visib('series')">Abstract</a> | [Draft][Draft_series_paper] | [Arxiv version][Arxiv_series_paper] | [Nber version][Nber_series_paper] | [Replication code][replication_julia]] 
