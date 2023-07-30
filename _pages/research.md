@@ -41,7 +41,7 @@ We study identification in a binary choice panel data model with a single predet
 
 [Draft_series_paper]:{{ site.baseurl }}{% link assets/files/Draft_SERIES_submit.pdf %}
 
-[Arxiv_series_paper]:  https://arxiv.org/pdf/2301.05733.pdf
+[Arxiv_series_paper]:  https://arxiv.org/abs/2301.05733
 
 [Nber_series_paper]: https://www.nber.org/papers/w31027
 
