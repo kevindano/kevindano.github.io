@@ -39,7 +39,7 @@ Economic interactions often occur in networks where heterogeneous agents (such a
 We study identification in a binary choice panel data model with a single predetermined binary covariate (i.e., a covariate sequentially exogenous conditional on lagged outcomes and covariates). The choice model is indexed by a scalar parameter, whereas the distribution of unit-specific heterogeneity, as well as the feedback process that maps lagged outcomes into future covariate realizations, are left unrestricted. We provide a simple condition under which the model parameter is never point-identified, no matter the number of time periods available. At the same time, we show in simulations that its identified set can remain informative suggesting that meaningful learning is possible even in short panels with feedback.
 </small><br><br/></div>
 
-[Draft_series_paper]:{{ site.baseurl }}{% link assets/files/Draft_SERIES_submit.pdf %}
+[Draft_series_paper]:{{ site.baseurl }}{% link assets/files/Draft_SERIES_revision.pdf %}
 
 [Arxiv_series_paper]:  https://arxiv.org/abs/2301.05733
 
