@@ -5,20 +5,22 @@ permalink: /research/
 classes: wide
 ---
 
-# <center> Working Papers  </center>
+# <center> Job Market Paper  </center>
 - - -
 
-**Transition Probabilities and Identifying Moments in Dynamic Fixed Effects Logit Models**, *(winner of the Best PhD Student Paper Award, 2023 IAAE Conference)* <br />
-<small>[ <a href="#/" onclick="visib('DFEL')">Abstract</a> | [Draft][Draft_DFEL_paper] | [Arxiv version][Arxiv_DFEL_paper]] 
-
+**Transition Probabilities and Moment Restrictions in Dynamic Fixed Effects Logit Models**, *(winner of the Best PhD Student Paper Award, 2023 IAAE Conference)* <br />
+<small>[ <a href="#/" onclick="visib('DFEL')">Abstract</a> | [Draft][Draft_JMP] | [Arxiv version][Arxiv_DFEL_paper]] 
 
 <div id="DFEL" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper deals with estimation of dynamic discrete choice models. Specifically, we introduce an algebraic approach to derive identifying moments in dynamic logit models with strictly exogenous regressors and additive fixed effects.  It is based upon two common features in this class of models. First, many (individual-specific) transition probabilities can be expressed as conditional expectations of functions of the data and common parameters given the initial condition, the regressors and the fixed effects. We call such functions transition functions.  Second, after enough time periods, multiple transition functions map to the same transition probabilities. This  motivates a differencing strategy leveraging the multiplicity of transition functions to produce valid moment conditions in panels of adequate length. We detail the construction of identifying moments in scalar models of arbitrary lag order as well as first-order panel vector autoregressions and dynamic multinomial logit models. A simulation study illustrates the small sample performance of GMM estimators based on our methodology.
+This paper introduces a new method to derive moment restrictions in dynamic logit models with strictly exogenous regressors and fixed effects.  We exploit the common structure of logit-type transition probabilities and elementary properties of rational fractions, to formulate a systematic procedure that scales naturally with model complexity (e.g the lag order or the number of observed time periods). We detail the construction of moment restrictions in binary response models of arbitrary lag order as well as first-order panel vector autoregressions and dynamic multinomial logit models. Identification of common parameters and average marginal effects is also discussed for the binary response case. Finally, we illustrate our results by studying the dynamics of drug consumption amongst young people inspired by Deza(2015).
 </small><br><br/></div>
 
-[Draft_DFEL_paper]:{{ site.baseurl }}{% link assets/files/Draft_DFEL_KevinDano.pdf %}
+[Draft_JMP]:{{ site.baseurl }}{% link assets/files/JMP_KevinDano.pdf %}
 
 [Arxiv_DFEL_paper]: http://arxiv.org/abs/2303.00083
+
+# <center> Working Papers  </center>
+- - -
 
 **Functional Differencing in Networks** (with Stéphane Bonhomme), *Submitted* <br />
 <small>[ <a href="#/" onclick="visib('funcdiff_networks')">Abstract</a> | [Draft][Draft_funcdiff_networks_paper] | [Arxiv version][Arxiv_funcdiff_networks_paper] ] 
@@ -69,7 +71,7 @@ We study identification in a binary choice panel data model with a single predet
 
 **Relaxing Strict Exogeneity in Nonlinear Panel Data Models** (with Stéphane Bonhomme and Bryan S. Graham)
 
-**Identification and estimation of random effects linear social interaction models with endogenous peer selection**  [draft coming soon]
+**Identification and Estimation of Random Effects Linear Social Interaction Models with Endogenous Peer Selection**  
 
 
 
