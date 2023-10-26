@@ -31,24 +31,8 @@ Economic interactions often occur in networks where heterogeneous agents (such a
 
 [Arxiv_funcdiff_networks_paper]: https://arxiv.org/abs/2307.11484
 
-**Identification in a Binary Choice Panel Data Model with a Predetermined Covariate** (with Stéphane Bonhomme and Bryan S. Graham), *Submitted* <br />
-<small>[ <a href="#/" onclick="visib('series')">Abstract</a> | [Draft][Draft_series_paper] | [Arxiv version][Arxiv_series_paper] | [Nber version][Nber_series_paper] | [Replication code][replication_julia]] 
 
-
-<div id="series" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We study identification in a binary choice panel data model with a single predetermined binary covariate (i.e., a covariate sequentially exogenous conditional on lagged outcomes and covariates). The choice model is indexed by a scalar parameter, whereas the distribution of unit-specific heterogeneity, as well as the feedback process that maps lagged outcomes into future covariate realizations, are left unrestricted. We provide a simple condition under which the model parameter is never point-identified, no matter the number of time periods available. At the same time, we show in simulations that its identified set can remain informative suggesting that meaningful learning is possible even in short panels with feedback.
-</small><br><br/></div>
-
-[Draft_series_paper]:{{ site.baseurl }}{% link assets/files/Draft_SERIES_revision.pdf %}
-
-[Arxiv_series_paper]:  https://arxiv.org/abs/2301.05733
-
-[Nber_series_paper]: https://www.nber.org/papers/w31027
-
-[replication_julia]: https://github.com/kevindano/Bonhomme-Dano-Graham-SERIES
-
-
-**Coordination and Incumbency Advantage in Multi-Party Systems: Evidence from French Elections** (with Francesco Ferlenga, Vincenzo Galasso, Caroline Le Pennec and Vincent Pons), *Submitted* <br />
+**Coordination and Incumbency Advantage in Multi-Party Systems: Evidence from French Elections** (with Francesco Ferlenga, Vincenzo Galasso, Caroline Le Pennec and Vincent Pons), *Revise and resubmit, The Journal of the European Economic Association* <br />
 <small>[ <a href="#/" onclick="visib('incumbency')">Abstract</a>  | [Draft][Draft_incumbency_adv] | [Nber version][Nber_incumbency_adv]] </small>
 
 
@@ -59,6 +43,26 @@ In theory, free and fair elections can improve the selection of politicians and 
 [Draft_incumbency_adv]:{{ site.baseurl }}{% link assets/files/20221003_Incumbency_and_runoff_advantage_in_France.pdf %}
 
 [Nber_incumbency_adv]: https://www.nber.org/papers/w30541
+
+
+# <center> Publications  </center>
+- - -
+
+**Identification in a Binary Choice Panel Data Model with a Predetermined Covariate** (with Stéphane Bonhomme and Bryan S. Graham), *SERIEs - Journal of the Spanish Economic Association. Special issue in honor of Manuel Arellano.* <br />
+<small>[ <a href="#/" onclick="visib('series')">Abstract</a> | [Published version][Published_paper] | [Arxiv version][Arxiv_series_paper] | [Nber version][Nber_series_paper] | [Replication code][replication_julia]] 
+
+<div id="series" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We study identification in a binary choice panel data model with a single predetermined binary covariate (i.e., a covariate sequentially exogenous conditional on lagged outcomes and covariates). The choice model is indexed by a scalar parameter, whereas the distribution of unit-specific heterogeneity, as well as the feedback process that maps lagged outcomes into future covariate realizations, are left unrestricted. We provide a simple condition under which the model parameter is never point-identified, no matter the number of time periods available. At the same time, we show in simulations that its identified set can remain informative suggesting that meaningful learning is possible even in short panels with feedback.
+</small><br><br/></div>
+
+[Published_paper]: https://link.springer.com/article/10.1007/s13209-023-00290-2
+
+[Arxiv_series_paper]:  https://arxiv.org/abs/2301.05733
+
+[Nber_series_paper]: https://www.nber.org/papers/w31027
+
+[replication_julia]: https://github.com/kevindano/Bonhomme-Dano-Graham-SERIES
+
 
 # <center> Work In Progress  </center>
 - - -
