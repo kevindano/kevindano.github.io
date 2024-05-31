@@ -5,7 +5,8 @@ permalink: /research/
 classes: wide
 ---
 
-# <center> Job Market Paper  </center>
+
+# <center> Working Papers  </center>
 - - -
 
 **Transition Probabilities and Moment Restrictions in Dynamic Fixed Effects Logit Models**, *(winner of the Best PhD Student Paper Award, 2023 IAAE Conference)* <br />
@@ -18,9 +19,6 @@ Dynamic logit models are popular tools in economics to measure state dependence.
 [Draft_JMP]:{{ site.baseurl }}{% link assets/files/JMP_KevinDano.pdf %}
 
 [Arxiv_DFEL_paper]: http://arxiv.org/abs/2303.00083
-
-# <center> Working Papers  </center>
-- - -
 
 **Functional Differencing in Networks** (with Stéphane Bonhomme), *Submitted* <br />
 <small>[ <a href="#/" onclick="visib('funcdiff_networks')">Abstract</a> | [Draft][Draft_funcdiff_networks_paper] | [Arxiv version][Arxiv_funcdiff_networks_paper] ] 
@@ -69,7 +67,7 @@ We study identification in a binary choice panel data model with a single predet
 # <center> Work In Progress  </center>
 - - -
 
-**Relaxing Strict Exogeneity in Nonlinear Panel Data Models** (with Stéphane Bonhomme and Bryan S. Graham)
+**Moment Restrictions in Nonlinear Panel Data Models with Feedback** (with Stéphane Bonhomme and Bryan S. Graham)
 
 **Identification and Estimation of Random Effects Linear Social Interaction Models with Endogenous Peer Selection**  
 

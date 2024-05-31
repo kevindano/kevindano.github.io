@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 <br />
-Welcome! I am a PhD candidate in Economics at the University of California Berkeley.  
+Welcome! I am an econometrician with research interests primarily in panel data and networks.
 
-My research interests are primarily in econometrics, with a focus on panel data and networks. I have also worked on topics in political economy. Here is my [CV](files/CV_Kevin_DANO.pdf).
-
-**I am on the 2023-2024 job market.**
+I will join Princeton University as a Postdoctoral Research Associate in July 2024, and as an Assistant Professor of Economics in January 2025. I received my PhD in Economics from the University of California, Berkeley. Here is my [CV](files/CV_Kevin_DANO.pdf).
 
 Contact: kdano@berkeley.edu 
 
