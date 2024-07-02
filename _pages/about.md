@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 <br />
-Welcome! I am an econometrician with research interests primarily in panel data and networks.
+Welcome! I am a Postdoctoral Research Associate at Princeton University and will join the Department of Economics as an Assistant Professor in January 2025. 
 
-I will join Princeton University as a Postdoctoral Research Associate in July 2024, and as an Assistant Professor of Economics in January 2025. I received my PhD in Economics from the University of California, Berkeley. Here is my [CV](files/CV_Kevin_DANO.pdf).
+My reseach interests are in econometrics with a main focus on panel data and networks. 
 
-Contact: kdano@berkeley.edu 
+I received my PhD in Economics from the University of California, Berkeley. Here is my [CV](files/CV_Kevin_DANO.pdf).
+
+Contact: kdano@princeton.edu 
 
