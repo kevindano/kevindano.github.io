@@ -32,7 +32,7 @@ Economic interactions often occur in networks where heterogeneous agents (such a
 [Arxiv_funcdiff_networks_paper]: https://arxiv.org/abs/2307.11484
 
 
-**Coordination and Incumbency Advantage in Multi-Party Systems: Evidence from French Elections** (with Francesco Ferlenga, Vincenzo Galasso, Caroline Le Pennec and Vincent Pons), *Revise and resubmit, The Journal of the European Economic Association* <br />
+**Coordination and Incumbency Advantage in Multi-Party Systems: Evidence from French Elections** (with Francesco Ferlenga, Vincenzo Galasso, Caroline Le Pennec and Vincent Pons), *Conditionally accepted, The Journal of the European Economic Association* <br />
 <small>[ <a href="#/" onclick="visib('incumbency')">Abstract</a>  | [Draft][Draft_incumbency_adv] | [Nber version][Nber_incumbency_adv]] </small>
 
 
