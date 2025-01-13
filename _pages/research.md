@@ -9,7 +9,7 @@ classes: wide
 # <center> Working Papers  </center>
 - - -
 
-**Transition Probabilities and Moment Restrictions in Dynamic Fixed Effects Logit Models**, *(winner of the Best PhD Student Paper Award, 2023 IAAE Conference)* <br />
+**Transition Probabilities and Moment Restrictions in Dynamic Fixed Effects Logit Models**, *(winner of the Best PhD Student Paper Award, 2023 IAAE Conference)*, *Submitted* <br />
 <small>[ <a href="#/" onclick="visib('DFEL')">Abstract</a> | [Draft][Draft_JMP] | [Supplement][Supplement_JMP] | [Arxiv version][Arxiv_DFEL_paper]] 
 
 <div id="DFEL" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -23,7 +23,7 @@ Finally, we illustrate our results in an application investigating the dynamics 
 
 [Arxiv_DFEL_paper]: http://arxiv.org/abs/2303.00083
 
-**Functional Differencing in Networks** (with Stéphane Bonhomme), *Submitted* <br />
+**Functional Differencing in Networks** (with Stéphane Bonhomme),  <br />
 <small>[ <a href="#/" onclick="visib('funcdiff_networks')">Abstract</a> | [Draft][Draft_funcdiff_networks_paper] | [Arxiv version][Arxiv_funcdiff_networks_paper] ] 
 
 <div id="funcdiff_networks" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -33,19 +33,6 @@ Economic interactions often occur in networks where heterogeneous agents (such a
 [Draft_funcdiff_networks_paper]:{{ site.baseurl }}{% link assets/files/Note_FD_resubmit_noFrenchabstract.pdf %}
 
 [Arxiv_funcdiff_networks_paper]: https://arxiv.org/abs/2307.11484
-
-
-**Coordination and Incumbency Advantage in Multi-Party Systems: Evidence from French Elections** (with Francesco Ferlenga, Vincenzo Galasso, Caroline Le Pennec and Vincent Pons), *Conditionally accepted, The Journal of the European Economic Association* <br />
-<small>[ <a href="#/" onclick="visib('incumbency')">Abstract</a>  | [Draft][Draft_incumbency_adv] | [Nber version][Nber_incumbency_adv]] </small>
-
-
-<div id="incumbency" style="display: none; text-align: justify; line-height: 1.2" ><small>
-In theory, free and fair elections can improve the selection of politicians and incentivize them to exert effort. In practice, incumbency advantage and coordination issues may lead to the (re)election of bad politicians. We ask whether these two forces compound each other. Using an RDD in French two-round local and parliamentary elections, we find that winning an election increases candidates' chances to win the next election by 25.1 percentage points. Close winners are more likely to run again and more likely to win, conditional on running, than close losers. Incumbents run a more personalized campaign communication and face fewer ideologically close competitors, indicating that parties on the winning side coordinate more effectively than the losing side. A complementary RDD reveals that candidates who marginally qualify for the runoff also rally voters, but without affecting the number of competitors on their side. We conclude that party coordination and voters rallying candidates who won or gained visibility in an election both contribute to their success in future races, absent any actual difference in quality with candidates on the losing side.
-</small><br><br/></div>
-
-[Draft_incumbency_adv]:{{ site.baseurl }}{% link assets/files/20221003_Incumbency_and_runoff_advantage_in_France.pdf %}
-
-[Nber_incumbency_adv]: https://www.nber.org/papers/w30541
 
 
 # <center> Publications  </center>
@@ -67,8 +54,25 @@ We study identification in a binary choice panel data model with a single predet
 [replication_julia]: https://github.com/kevindano/Bonhomme-Dano-Graham-SERIES
 
 
+**Coordination and Incumbency Advantage in Multi-Party Systems: Evidence from French Elections** (with Francesco Ferlenga, Vincenzo Galasso, Caroline Le Pennec and Vincent Pons), *The Journal of the European Economic Association*, accepted <br />
+<small>[ <a href="#/" onclick="visib('incumbency')">Abstract</a>  | [Draft][Draft_incumbency_adv] | [Nber version][Nber_incumbency_adv]] | [Replication code][replication_stata]] </small>
+
+
+<div id="incumbency" style="display: none; text-align: justify; line-height: 1.2" ><small>
+In theory, free and fair elections can improve the selection of politicians and incentivize them to exert effort. In practice, incumbency advantage and coordination issues may lead to the (re)election of bad politicians. We ask whether these two forces compound each other. Using an RDD in French two-round local and parliamentary elections, we find that winning an election increases candidates' chances to win the next election by 25.1 percentage points. Close winners are more likely to run again and more likely to win, conditional on running, than close losers. Incumbents run a more personalized campaign communication and face fewer ideologically close competitors, indicating that parties on the winning side coordinate more effectively than the losing side. A complementary RDD reveals that candidates who marginally qualify for the runoff also rally voters, but without affecting the number of competitors on their side. We conclude that party coordination and voters rallying candidates who won or gained visibility in an election both contribute to their success in future races, absent any actual difference in quality with candidates on the losing side.
+</small><br><br/></div>
+
+[Draft_incumbency_adv]:{{ site.baseurl }}{% link assets/files/Incumbency_and_runoff_advantage_in_France.pdf %}
+
+[Nber_incumbency_adv]: https://www.nber.org/papers/w30541
+
+[replication_stata]: https://zenodo.org/records/14071530
+
+
 # <center> Work In Progress  </center>
 - - -
+
+**Dynamic Panel Multinomial Logit Models** (with Bo Honoré and Martin Weidner)
 
 **Moment Restrictions in Nonlinear Panel Data Models with Feedback** (with Stéphane Bonhomme and Bryan S. Graham)
 
