@@ -10,13 +10,16 @@ classes: wide
 - - -
 
 **Transition Probabilities and Moment Restrictions in Dynamic Fixed Effects Logit Models**, *(winner of the Best PhD Student Paper Award, 2023 IAAE Conference)* <br />
-<small>[ <a href="#/" onclick="visib('DFEL')">Abstract</a> | [Draft][Draft_JMP] | [Arxiv version][Arxiv_DFEL_paper]] 
+<small>[ <a href="#/" onclick="visib('DFEL')">Abstract</a> | [Draft][Draft_JMP] | [Supplement][Supplement_JMP] | [Arxiv version][Arxiv_DFEL_paper]] 
 
 <div id="DFEL" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Dynamic logit models are popular tools in economics to measure state dependence. This paper introduces a new method to derive moment restrictions in a large class of such models with strictly exogenous regressors and fixed effects.  We exploit the common structure of logit-type transition probabilities and elementary properties of rational fractions, to formulate a systematic procedure that scales naturally with model complexity (e.g the lag order or the number of observed time periods). We detail the construction of moment restrictions in binary response models of arbitrary lag order as well as first-order panel vector autoregressions and dynamic multinomial logit models. Identification of common parameters and average marginal effects is also discussed for the binary response case. Finally, we illustrate our results by studying the dynamics of drug consumption amongst young people inspired by Deza(2015).
+This paper introduces a new method to derive moment restrictions in dynamic discrete choice models with strictly exogenous regressors, fixed effects and logistic errors. We show how the structure of logit probabilities and basic properties of rational fractions can be used to construct moment functions free of the fixed effects in a way that scales naturally with the lag order and the number of observed periods. We demonstrate the approach in binary response models of arbitrary lag order, first-order panel vector autoregressions and dynamic multinomial logit models. The semiparametric efficiency bound is characterized for the leading binary case with one lag. 
+Finally, we illustrate our results in an application investigating the dynamics of drug consumption among young people.
 </small><br><br/></div>
 
 [Draft_JMP]:{{ site.baseurl }}{% link assets/files/JMP_KevinDano.pdf %}
+
+[Supplement_JMP]:{{ site.baseurl }}{% link assets/files/JMP_KevinDano_OnlineAppendix.pdf %}
 
 [Arxiv_DFEL_paper]: http://arxiv.org/abs/2303.00083
 
