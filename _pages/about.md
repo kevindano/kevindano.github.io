@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br />
-Welcome! I am a Postdoctoral Research Associate at Princeton University and will join the Department of Economics as an Assistant Professor in January 2025. 
+Welcome! I am an Assistant Professor of Economcis at Princeton University. 
 
 My reseach interests are in econometrics with a main focus on panel data and networks. 
 
