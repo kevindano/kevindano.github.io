@@ -9,6 +9,18 @@ classes: wide
 # <center> Working Papers  </center>
 - - -
 
+**Moment Restrictions for Nonlinear Panel Data Models with Feedback**, (with Stéphane Bonhomme and Bryan S. Graham)  <br />
+<small>[ <a href="#/" onclick="visib('feedback')">Abstract</a> | [Draft][Draft_local] | [Arxiv version][Arxiv_paper]] 
+
+<div id="feedback" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Many panel data methods place strong a priori restrictions on feedback: how past outcomes, covariates, and heterogeneity map into future covariate levels. In semi-parametric models we characterize the set of all moment functions that are robust to unrestricted feedback and heterogeneity. We provide results for finite-dimenisonal parameters and average effects, and show how to use our characterization for efficiency analysis. We illustrate the approach in the multi-spell mixed proportional hazard duration model and through additional novel examples. 
+</small><br><br/></div>
+
+[Draft_local]:{{ site.baseurl }}{% link assets/files/BDG_feedback.pdf %}
+
+[Arxiv_paper]: https://arxiv.org/abs/2506.12569
+
+
 **Transition Probabilities and Moment Restrictions in Dynamic Fixed Effects Logit Models**, *(winner of the Best PhD Student Paper Award, 2023 IAAE Conference)*, *Submitted* <br />
 <small>[ <a href="#/" onclick="visib('DFEL')">Abstract</a> | [Draft][Draft_JMP] | [Supplement][Supplement_JMP] | [Arxiv version][Arxiv_DFEL_paper]] 
 
@@ -54,7 +66,7 @@ We study identification in a binary choice panel data model with a single predet
 [replication_julia]: https://github.com/kevindano/Bonhomme-Dano-Graham-SERIES
 
 
-**Coordination and Incumbency Advantage in Multi-Party Systems: Evidence from French Elections** (with Francesco Ferlenga, Vincenzo Galasso, Caroline Le Pennec and Vincent Pons), *The Journal of the European Economic Association*, accepted <br />
+**Coordination and Incumbency Advantage in Multi-Party Systems: Evidence from French Elections** (with Francesco Ferlenga, Vincenzo Galasso, Caroline Le Pennec and Vincent Pons), *The Journal of the European Economic Association* <br />
 <small>[ <a href="#/" onclick="visib('incumbency')">Abstract</a>  | [Draft][Draft_incumbency_adv] | [Nber version][Nber_incumbency_adv]] | [Replication code][replication_stata]] </small>
 
 
@@ -73,8 +85,6 @@ In theory, free and fair elections can improve the selection of politicians and 
 - - -
 
 **Dynamic Panel Multinomial Logit Models** (with Bo Honoré and Martin Weidner)
-
-**Moment Restrictions in Nonlinear Panel Data Models with Feedback** (with Stéphane Bonhomme and Bryan S. Graham)
 
 **Identification and Estimation of Random Effects Linear Social Interaction Models with Endogenous Peer Selection**  
 
