@@ -9,7 +9,7 @@ classes: wide
 # <center> Working Papers  </center>
 - - -
 
-**Moment Restrictions for Nonlinear Panel Data Models with Feedback**, (with Stéphane Bonhomme and Bryan S. Graham)  <br />
+**Moment Restrictions for Nonlinear Panel Data Models with Feedback**, (with Stéphane Bonhomme and Bryan S. Graham), *Submitted*  <br />
 <small>[ <a href="#/" onclick="visib('feedback')">Abstract</a> | [Draft][Draft_local] | [Arxiv version][Arxiv_paper]] 
 
 <div id="feedback" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -21,7 +21,7 @@ Many panel data methods place strong a priori restrictions on feedback: how past
 [Arxiv_paper]: https://arxiv.org/abs/2506.12569
 
 
-**Transition Probabilities and Moment Restrictions in Dynamic Fixed Effects Logit Models**, *(winner of the Best PhD Student Paper Award, 2023 IAAE Conference)*, *Submitted* <br />
+**Transition Probabilities and Moment Restrictions in Dynamic Fixed Effects Logit Models**, *(winner of the Best PhD Student Paper Award, 2023 IAAE Conference)*, <br />
 <small>[ <a href="#/" onclick="visib('DFEL')">Abstract</a> | [Draft][Draft_JMP] | [Supplement][Supplement_JMP] | [Arxiv version][Arxiv_DFEL_paper]] 
 
 <div id="DFEL" style="display: none; text-align: justify; line-height: 1.2" ><small>
