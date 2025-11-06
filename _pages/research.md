@@ -42,7 +42,7 @@ Finally, we illustrate our results in an application investigating the dynamics 
 
 [Draft_JMP]:{{ site.baseurl }}{% link assets/files/JMP_KevinDano.pdf %}
 
-[Supplement_JMP]:{{ site.baseurl }}{% link assets/files/JMP_KevinDano_OnlineAppendix.pdf %}
+[Supplement_JMP]:{{ site.baseurl }}{% link assets/files/JMP_KevinDano_SupplementalAppendix.pdf %}
 
 [Arxiv_DFEL_paper]: http://arxiv.org/abs/2303.00083
 
