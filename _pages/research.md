@@ -95,6 +95,8 @@ In theory, free and fair elections can improve the selection of politicians and 
 # <center> Work In Progress  </center>
 - - -
 
+**Homophily and transitivity in dynamic network formation** (with Bryan Graham and Yassine Sbai Sassi)
+
 **Dynamic Panel Multinomial Logit Models** (with Bo Honoré and Martin Weidner)
 
 **Identification and Estimation of Random Effects Linear Social Interaction Models with Endogenous Peer Selection**  
