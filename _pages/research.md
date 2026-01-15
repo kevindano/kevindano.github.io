@@ -9,7 +9,7 @@ classes: wide
 # <center> Working Papers  </center>
 - - -
 
-**Binary choice logit models with general fixed effects for panel and network data** (with Bo E. Honoré and Martin Weidner)  <br />
+**Binary choice logit models with general fixed effects for panel and network data** (with Bo Honoré and Martin Weidner), Econometric Society World Congress Monographs (Conditionally Accepted) <br />
 <small>[ <a href="#/" onclick="visib('logitgenFE')">Abstract</a> | [Draft][Draft_logitgenFE] | [Arxiv version][Arxiv_logitgenFE]] 
 
 <div id="logitgenFE" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -20,7 +20,8 @@ This paper systematically analyzes and reviews identification strategies for bin
 
 [Arxiv_logitgenFE]: https://arxiv.org/abs/2508.11556
 
-**Moment Restrictions for Nonlinear Panel Data Models with Feedback** (with Stéphane Bonhomme and Bryan S. Graham),  <br />
+
+**Moment Restrictions for Nonlinear Panel Data Models with Feedback** (with Stéphane Bonhomme and Bryan S. Graham)  <br />
 <small>[ <a href="#/" onclick="visib('feedback')">Abstract</a> | [Draft][Draft_local] | [Arxiv version][Arxiv_paper]] 
 
 <div id="feedback" style="display: none; text-align: justify; line-height: 1.2" ><small>
