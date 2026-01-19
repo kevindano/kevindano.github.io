@@ -21,7 +21,7 @@ This paper systematically analyzes and reviews identification strategies for bin
 [Arxiv_logitgenFE]: https://arxiv.org/abs/2508.11556
 
 
-**Moment Restrictions for Nonlinear Panel Data Models with Feedback** (with Stéphane Bonhomme and Bryan S. Graham)  <br />
+**Moment Restrictions for Nonlinear Panel Data Models with Feedback** (with Stéphane Bonhomme and Bryan S. Graham), R&R Econometrica  <br />
 <small>[ <a href="#/" onclick="visib('feedback')">Abstract</a> | [Draft][Draft_local] | [Arxiv version][Arxiv_paper]] 
 
 <div id="feedback" style="display: none; text-align: justify; line-height: 1.2" ><small>
