@@ -9,18 +9,6 @@ classes: wide
 # <center> Working Papers  </center>
 - - -
 
-**Binary choice logit models with general fixed effects for panel and network data** (with Bo Honoré and Martin Weidner), *Econometric Society World Congress Monographs (Conditionally Accepted)* <br />
-<small>[ <a href="#/" onclick="visib('logitgenFE')">Abstract</a> | [Draft][Draft_logitgenFE] | [Arxiv version][Arxiv_logitgenFE]] 
-
-<div id="logitgenFE" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper systematically analyzes and reviews identification strategies for binary choice logit models with fixed effects in panel and network data settings. We examine both static and dynamic models with general fixed-effect structures, including individual effects, time trends, and two-way or dyadic effects. A key challenge is the incidental parameter problem, which arises from the increasing number of fixed effects as the sample size grows. We explore two main strategies for eliminating nuisance parameters: conditional likelihood methods, which remove fixed effects by conditioning on sufficient statistics, and moment-based methods, which derive fixed-effect-free moment conditions. We demonstrate how these approaches apply to a variety of models, summarizing key findings from the literature while also presenting new examples and new results.
-</small><br><br/></div>
-
-[Draft_logitgenFE]:{{ site.baseurl }}{% link assets/files/DHW_logitgenFE.pdf %}
-
-[Arxiv_logitgenFE]: https://arxiv.org/abs/2508.11556
-
-
 **Moment Restrictions for Nonlinear Panel Data Models with Feedback** (with Stéphane Bonhomme and Bryan S. Graham), *R&R Econometrica*  <br />
 <small>[ <a href="#/" onclick="visib('feedback')">Abstract</a> | [Draft][Draft_local] | [Arxiv version][Arxiv_paper]] 
 
@@ -61,6 +49,17 @@ Economic interactions often occur in networks where heterogeneous agents (such a
 
 # <center> Publications  </center>
 - - -
+
+**Binary choice logit models with general fixed effects for panel and network data** (with Bo Honoré and Martin Weidner), *Econometric Society World Congress Monographs (Accepted)* <br />
+<small>[ <a href="#/" onclick="visib('logitgenFE')">Abstract</a> | [Draft][Draft_logitgenFE] | [Arxiv version][Arxiv_logitgenFE]] 
+
+<div id="logitgenFE" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper systematically analyzes and reviews identification strategies for binary choice logit models with fixed effects in panel and network data settings. We examine both static and dynamic models with general fixed-effect structures, including individual effects, time trends, and two-way or dyadic effects. A key challenge is the incidental parameter problem, which arises from the increasing number of fixed effects as the sample size grows. We explore two main strategies for eliminating nuisance parameters: conditional likelihood methods, which remove fixed effects by conditioning on sufficient statistics, and moment-based methods, which derive fixed-effect-free moment conditions. We demonstrate how these approaches apply to a variety of models, summarizing key findings from the literature while also presenting new examples and new results.
+</small><br><br/></div>
+
+[Draft_logitgenFE]:{{ site.baseurl }}{% link assets/files/DHW_logitgenFE.pdf %}
+
+[Arxiv_logitgenFE]: https://arxiv.org/abs/2508.11556
 
 **Identification in a Binary Choice Panel Data Model with a Predetermined Covariate** (with Stéphane Bonhomme and Bryan S. Graham), *SERIEs - Journal of the Spanish Economic Association. Special issue in honor of Manuel Arellano* <br />
 <small>[ <a href="#/" onclick="visib('series')">Abstract</a> | [Published version][Published_paper] | [Arxiv version][Arxiv_series_paper] | [Nber version][Nber_series_paper] | [Replication code][replication_julia]] 
