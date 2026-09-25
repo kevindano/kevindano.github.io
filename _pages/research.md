@@ -9,19 +9,6 @@ classes: wide
 # <center> Working Papers  </center>
 - - -
 
-**Homophily and transitivity in dynamic network formation** (with Bryan S. Graham and Yassine Sbai Sassi)  <br />
-<small>[ <a href="#/" onclick="visib('dynamicnetwork')">Abstract</a> | [Draft][Draft_JBES] | [Arxiv version][Arxiv_paper_JBES]] 
-
-<div id="dynamicnetwork" style="display: none; text-align: justify; line-height: 1.2" ><small>
-In social and economic networks linked agents often share connections in common. There are two competing explanations for this phenomenon. First, agents may have a structural taste for
-transitive links - the returns to linking may be higher if two agents share a common connection. Second, agents may assortatively match on unobserved attributes, a process called homophily. We study parameter identifiability in a simple model of dynamic network formation with both effects. Our identification result is constructive, suggesting an analog estimator, whose finite and single large network properties we characterize. We show, via examples, the delicacy of information accumulation in the single large network setting.
-</small><br><br/></div>
-
-[Draft_JBES]:{{ site.baseurl }}{% link assets/files/JBES_Lecture.pdf %}
-
-[Arxiv_paper_JBES]: https://arxiv.org/abs/2609.14049
-
-
 **Moment Restrictions for Nonlinear Panel Data Models with Feedback** (with Stéphane Bonhomme and Bryan S. Graham), *R&R Econometrica*  <br />
 <small>[ <a href="#/" onclick="visib('feedback')">Abstract</a> | [Draft][Draft_local] | [Arxiv version][Arxiv_paper]] 
 
@@ -62,6 +49,18 @@ Economic interactions often occur in networks where heterogeneous agents (such a
 
 # <center> Publications  </center>
 - - -
+
+**Homophily and transitivity in dynamic network formation** (with Bryan S. Graham and Yassine Sbai Sassi), *Journal of Business and Economic Statistics (Accepted)*  <br />
+<small>[ <a href="#/" onclick="visib('dynamicnetwork')">Abstract</a> | [Draft][Draft_JBES] | [Arxiv version][Arxiv_paper_JBES]] 
+
+<div id="dynamicnetwork" style="display: none; text-align: justify; line-height: 1.2" ><small>
+In social and economic networks linked agents often share connections in common. There are two competing explanations for this phenomenon. First, agents may have a structural taste for
+transitive links - the returns to linking may be higher if two agents share a common connection. Second, agents may assortatively match on unobserved attributes, a process called homophily. We study parameter identifiability in a simple model of dynamic network formation with both effects. Our identification result is constructive, suggesting an analog estimator, whose finite and single large network properties we characterize. We show, via examples, the delicacy of information accumulation in the single large network setting.
+</small><br><br/></div>
+
+[Draft_JBES]:{{ site.baseurl }}{% link assets/files/JBES_Lecture.pdf %}
+
+[Arxiv_paper_JBES]: https://arxiv.org/abs/2609.14049
 
 **Binary choice logit models with general fixed effects for panel and network data** (with Bo Honoré and Martin Weidner), *Econometric Society World Congress Monographs (Accepted)* <br />
 <small>[ <a href="#/" onclick="visib('logitgenFE')">Abstract</a> | [Draft][Draft_logitgenFE] | [Arxiv version][Arxiv_logitgenFE]] 
