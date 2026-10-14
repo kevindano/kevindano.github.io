@@ -10,7 +10,7 @@ classes: wide
 - - -
 
 **Dynamic Panel Multinomial Logit Models** (with Bo Honoré and Martin Weidner)  <br />
-<small>[ <a href="#/" onclick="visib('DynamicMultinomialLogit')">Abstract</a> | [Draft][Draft_DynamicMultinomialLogit] ] 
+<small>[ <a href="#/" onclick="visib('DynamicMultinomialLogit')">Abstract</a> | [Draft][Draft_DynamicMultinomialLogit] | [Arxiv version][Arxiv_DynamicMultinomialLogit_paper] ] 
 
 <div id="DynamicMultinomialLogit" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We provide moment conditions for dynamic multinomial logit panel data models with individual specific fixed effects. The construction of moment conditions is based on transformed models obtained by permuting outcomes across time periods. For any cyclic permutation, the ratio of the transformed model probability to the true model probability is free of the fixed effects, and comparing two such ratios yields restrictions on the common parameters of interest. This construction is not specific to the multinomial logit. It applies to any dynamic panel data model whose static counterpart admits a symmetric sufficient statistic for the fixed effects. 
@@ -18,6 +18,7 @@ We provide moment conditions for dynamic multinomial logit panel data models wit
 
 [Draft_DynamicMultinomialLogit]:{{ site.baseurl }}{% link assets/files/DHW_DynamicMultinomialLogit.pdf %}
 
+[Arxiv_DynamicMultinomialLogit_paper]: https://arxiv.org/abs/2610.17104
 
 **Moment Restrictions for Nonlinear Panel Data Models with Feedback** (with Stéphane Bonhomme and Bryan S. Graham), *R&R Econometrica*  <br />
 <small>[ <a href="#/" onclick="visib('feedback')">Abstract</a> | [Draft][Draft_local] | [Arxiv version][Arxiv_paper]] 
